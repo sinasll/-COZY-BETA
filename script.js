@@ -52,7 +52,7 @@ function viewFriends() {
 }
 
 // Function to handle "Wallet" button click
-function viewWallet() {
+function viewwallet() {
     window.location.href = 'wallet.html'; // Navigate to the wallet page
 }
 
